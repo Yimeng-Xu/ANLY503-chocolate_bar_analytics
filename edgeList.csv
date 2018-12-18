@@ -1,0 +1,26 @@
+﻿Source,Target,Weight,SourceID,TargetID
+1 Venezuela,1 U.S.A. (3.15),73,0,5
+1 Venezuela,2 France (3.25),23,0,6
+1 Venezuela,3 Canada (3.32),14,0,7
+1 Venezuela,4 U.K. (3.05),11,0,8
+1 Venezuela,5 Italy (3.33),19,0,9
+2 Ecuador,1 U.S.A. (3.15),71,1,5
+2 Ecuador,2 France (3.25),9,1,6
+2 Ecuador,3 Canada (3.32),8,1,7
+2 Ecuador,4 U.K. (3.05),12,1,8
+2 Ecuador,5 Italy (3.33),7,1,9
+3 Dominican Republic,1 U.S.A. (3.15),112,4,5
+3 Dominican Republic,2 France (3.25),8,4,6
+3 Dominican Republic,3 Canada (3.32),14,4,7
+3 Dominican Republic,4 U.K. (3.05),7,4,8
+3 Dominican Republic,5 Italy (3.33),3,4,9
+4 Peru,1 U.S.A. (3.15),76,2,5
+4 Peru,2 France (3.25),14,2,6
+4 Peru,3 Canada (3.32),6,2,7
+4 Peru,4 U.K. (3.05),8,2,8
+4 Peru,5 Italy (3.33),2,2,9
+5 Madagascar,1 U.S.A. (3.15),57,3,5
+5 Madagascar,2 France (3.25),12,3,6
+5 Madagascar,3 Canada (3.32),9,3,7
+5 Madagascar,4 U.K. (3.05),9,3,8
+5 Madagascar,5 Italy (3.33),4,3,9
