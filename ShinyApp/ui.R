@@ -1,5 +1,5 @@
 library(shiny)
-cocoa <- read.csv('data/flavors_of_cocao_clean-united states.csv', stringsAsFactors = FALSE)
+cocoa <- read.csv('flavors_of_cocao_clean-united states.csv', stringsAsFactors = FALSE)
 
 # Define UI for application that draws a histogram
 shinyUI(fluidPage(
