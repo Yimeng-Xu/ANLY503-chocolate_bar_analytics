@@ -1,6 +1,6 @@
 library(shiny)
 
-cocoa <- read.csv('data/flavors_of_cocao_clean-united states.csv', stringsAsFactors = FALSE)
+cocoa <- read.csv('flavors_of_cocao_clean-united states.csv', stringsAsFactors = FALSE)
 function(input, output, session) {
   
   output$distPlot <- renderPlot({
